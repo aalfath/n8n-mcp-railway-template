@@ -1,6 +1,6 @@
 # n8n-MCP on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/Gj6syw?utm_medium=integration&utm_source=button&utm_campaign=n8n-mcp)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/n8n-mcp-3?utm_medium=integration&utm_source=button&utm_campaign=n8n-mcp)
 
 Railway template for [n8n-MCP](https://github.com/czlonkowski/n8n-mcp), an MCP server that lets Claude, ChatGPT, Cursor and other AI assistants look up n8n's nodes, validate workflows, and (with an n8n API key) build, edit, test and debug workflows on your n8n instance.
 
